@@ -1,1 +1,1 @@
-# IC-2K26-23-DE-Lab-Ayash-Kushwaha
+# 23-DE-Lab-Ayash-Kushwaha
