@@ -1,0 +1,46 @@
+# Lab 01: Introduction to Basic Logic Gates
+
+## Objective
+To study and verify the truth tables of basic logic gates: AND, OR, NOT, NAND, and NOR.
+
+## Theory & Truth Tables
+
+### 1. AND Gate
+The AND gate produces a HIGH (1) output only when all of its inputs are HIGH.
+
+
+### 2. OR Gate
+The OR gate produces a HIGH (1) output if at least one of its inputs is HIGH.
+
+
+
+### 3. NOT Gate (Inverter)
+The NOT gate produces an output that is the exact opposite (complement) of its input.
+
+| Input A | Output Y (A') |
+| :---: | :---: |
+| 0 | 1 |
+| 1 | 0 |
+
+### 4. NAND Gate (Universal Gate)
+The NAND gate is the complement of the AND gate. It produces a LOW (0) output only when all inputs are HIGH.
+
+| Input A | Input B | Output Y (A.B)' |
+| :---: | :---: | :---: |
+| 0 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+### 5. NOR Gate (Universal Gate)
+The NOR gate is the complement of the OR gate. It produces a HIGH (1) output only when all inputs are LOW.
+
+| Input A | Input B | Output Y (A+B)' |
+| :---: | :---: | :---: |
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 0 |
+
+## Result
+I have successfully verified the truth tables and outputs of all the basic logic gates.
