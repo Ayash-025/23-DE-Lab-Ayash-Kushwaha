@@ -1,0 +1,18 @@
+# Lab 02: Verification of XOR and XNOR Gates
+
+## Objective
+To study and verify the truth tables and outputs of XOR (Exclusive-OR) and XNOR (Exclusive-NOR) logic gates.
+
+## Theory & Truth Tables
+
+### 1. XOR Gate (Exclusive-OR)
+The XOR gate gives a HIGH (1) output when the inputs are different (one is HIGH, the other is LOW). If both inputs are the same, the output is LOW (0).
+
+
+### 2. XNOR Gate (Exclusive-NOR)
+The XNOR gate is the complement of the XOR gate. It gives a HIGH (1) output when both inputs are the same (both HIGH or both LOW).
+
+
+
+## Result
+I have successfully verified the truth tables and outputs of both the XOR and XNOR gates.
