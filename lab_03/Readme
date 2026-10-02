@@ -1,1 +1,24 @@
-..
+# Lab 03: Familiarization with Breadboard
+
+## Objective
+To understand the internal connections of a breadboard and learn how to set up digital ICs for logic circuit experiments.
+
+## Components Used
+* Breadboard
+* Connecting Wires (Jumper Wires)
+* Power Supply (5V) / Battery
+* LEDs and Resistors (for testing connections)
+
+## Theory
+A breadboard is a solderless construction base used for prototyping electronics and testing circuit designs. 
+* **Power Rails:** The horizontal rows at the top and bottom (often marked with red and blue lines) are connected horizontally across the board. These are used to distribute Power (VCC) and Ground (GND).
+* **Terminal Strips:** The middle sections have vertical columns (usually labeled A-E and F-J). All 5 holes in a single vertical column are internally connected, allowing you to link components together.
+* **Central Notch (Trench):** The gap in the middle isolates the two sides. Integrated Circuits (ICs) are placed across this notch so that opposite pins are not shorted together.
+
+## Lab Attachments
+This folder contains reference diagrams for the breadboard layout:
+* `To_familarise_with_breadboard(1).png`
+* `To_familarise_with_breadboard (2).png`
+
+## Result
+Successfully studied the internal connections of the breadboard and prepared the basic setup for testing digital logic gates.
